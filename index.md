@@ -1,5 +1,5 @@
 ---
-title: "JohnPaul K. Kambazza"
+title: JohnPaul K. Kambazza
 ---
 
 Home | About | Projects | Sites | Contact
